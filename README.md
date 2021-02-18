@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Beksultan junior python developer
+
 
 <!--
 **bekss/bekss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
