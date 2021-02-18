@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Beksultan junior python developer
+### Hi there 👋 I'm junior python developer  
 
 
 <!--
