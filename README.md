@@ -1,4 +1,4 @@
-### Hi there 👋 I'm python, php developer  
+### Hi there 👋 I'm developer  
 
 
 
